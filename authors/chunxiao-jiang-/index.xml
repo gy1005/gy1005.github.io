@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chunxiao Jiang  on Yu Gan at Cornell ECE</title>
+    <link>https://gy1005.github.io/authors/chunxiao-jiang-/</link>
+    <description>Recent content in Chunxiao Jiang  on Yu Gan at Cornell ECE</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; 2019 Yu Gan</copyright>
+    <lastBuildDate>Tue, 16 Aug 2016 00:00:00 -0400</lastBuildDate>
+    
+	<atom:link href="https://gy1005.github.io/authors/chunxiao-jiang-/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Secure Collaborative Spectrum Sensing: A Peer-Prediction Method</title>
+      <link>https://gy1005.github.io/publication/2016.tcomm.peer-predition/</link>
+      <pubDate>Tue, 16 Aug 2016 00:00:00 -0400</pubDate>
+      
+      <guid>https://gy1005.github.io/publication/2016.tcomm.peer-predition/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

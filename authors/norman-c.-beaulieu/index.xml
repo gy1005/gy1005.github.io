@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Norman C. Beaulieu on Yu Gan at Cornell ECE</title>
+    <link>https://gy1005.github.io/authors/norman-c.-beaulieu/</link>
+    <description>Recent content in Norman C. Beaulieu on Yu Gan at Cornell ECE</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; 2019 Yu Gan</copyright>
+    <lastBuildDate>Tue, 16 Aug 2016 00:00:00 -0400</lastBuildDate>
+    
+	<atom:link href="https://gy1005.github.io/authors/norman-c.-beaulieu/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Secure Collaborative Spectrum Sensing: A Peer-Prediction Method</title>
+      <link>https://gy1005.github.io/publication/2016.tcomm.peer-predition/</link>
+      <pubDate>Tue, 16 Aug 2016 00:00:00 -0400</pubDate>
+      
+      <guid>https://gy1005.github.io/publication/2016.tcomm.peer-predition/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Incentive Attack Prevention for Collaborative Spectrum Sensing: A Peer-Prediction Method</title>
+      <link>https://gy1005.github.io/publication/2015.globecom.peer-predition/</link>
+      <pubDate>Tue, 15 Dec 2015 00:00:00 -0500</pubDate>
+      
+      <guid>https://gy1005.github.io/publication/2015.globecom.peer-predition/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

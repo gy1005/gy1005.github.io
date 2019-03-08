@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Siyuan Hu on Yu Gan at Cornell ECE</title>
+    <link>https://gy1005.github.io/authors/siyuan-hu/</link>
+    <description>Recent content in Siyuan Hu on Yu Gan at Cornell ECE</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; 2019 Yu Gan</copyright>
+    <lastBuildDate>Sun, 01 Jul 2018 00:00:00 -0400</lastBuildDate>
+    
+	<atom:link href="https://gy1005.github.io/authors/siyuan-hu/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Seer: Leveraging Big Data to Navigate the Increasing Complexity of Cloud Debugging</title>
+      <link>https://gy1005.github.io/publication/2018.hotcloud.seer/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 -0400</pubDate>
+      
+      <guid>https://gy1005.github.io/publication/2018.hotcloud.seer/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

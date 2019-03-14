@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; 2019 Yu Gan</copyright>
-    <lastBuildDate>Thu, 07 Mar 2019 23:39:20 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 13 Mar 2019 21:39:47 -0400</lastBuildDate>
     
 	<atom:link href="https://gy1005.github.io/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title></title>
       <link>https://gy1005.github.io/author/admin/</link>
-      <pubDate>Thu, 07 Mar 2019 23:39:20 -0500</pubDate>
+      <pubDate>Wed, 13 Mar 2019 21:39:47 -0400</pubDate>
       
       <guid>https://gy1005.github.io/author/admin/</guid>
       <description>I am a 3rd year Ph.D. student in Electrical and Computer Engineering at Cornell University, advised by Professor Christina Delimitrou. I am interested in cloud computing, computer architecture and computer systems. My research focuses on improving the performance and resource efficiency in datacenters for modern cloud application architecture patterns, such as microservices.

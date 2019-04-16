@@ -13,6 +13,33 @@
     
     
     <item>
+      <title>An Open-Source Benchmark Suite for Microservices and Their Hardware-Software Implications for Cloud and Edge Systems</title>
+      <link>https://gy1005.github.io/publication/2019.asplos.deathstarbench/</link>
+      <pubDate>Mon, 15 Apr 2019 00:00:00 -0400</pubDate>
+      
+      <guid>https://gy1005.github.io/publication/2019.asplos.deathstarbench/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Seer: Leveraging Big Data to Navigate the Complexity of Performance Debugging in Cloud Microservices</title>
+      <link>https://gy1005.github.io/publication/2019.asplos.seer/</link>
+      <pubDate>Mon, 15 Apr 2019 00:00:00 -0400</pubDate>
+      
+      <guid>https://gy1005.github.io/publication/2019.asplos.seer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>μqSim: Enabling Accurate and Scalable Simulation for Interactive Microservices</title>
+      <link>https://gy1005.github.io/publication/2019.ispass.uqsim/</link>
+      <pubDate>Mon, 25 Mar 2019 00:00:00 -0400</pubDate>
+      
+      <guid>https://gy1005.github.io/publication/2019.ispass.uqsim/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Seer: Leveraging Big Data to Navigate the Increasing Complexity of Cloud Debugging</title>
       <link>https://gy1005.github.io/publication/2018.hotcloud.seer/</link>
       <pubDate>Sun, 01 Jul 2018 00:00:00 -0400</pubDate>

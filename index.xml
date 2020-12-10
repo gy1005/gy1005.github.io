@@ -1,20 +1,45 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Yu Gan at Cornell ECE on Yu Gan at Cornell ECE</title>
+    <title>Yu Gan at Cornell ECE</title>
     <link>https://gy1005.github.io/</link>
-    <description>Recent content in Yu Gan at Cornell ECE on Yu Gan at Cornell ECE</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>Copyright &amp;copy; 2019 Yu Gan</copyright>
-    <lastBuildDate>Tue, 30 Jul 2019 00:00:00 -0400</lastBuildDate>
-    <atom:link href="/" rel="self" type="application/rss+xml" />
+      <atom:link href="https://gy1005.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yu Gan at Cornell ECE</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Copyright © 2020 Yu Gan</copyright><lastBuildDate>Tue, 13 Apr 2021 00:00:00 -0400</lastBuildDate>
+    <image>
+      <url>https://gy1005.github.io/images/icon_hu2f77bbcd774e8649ce5bde95b181095f_33673_512x512_fill_lanczos_center_2.png</url>
+      <title>Yu Gan at Cornell ECE</title>
+      <link>https://gy1005.github.io/</link>
+    </image>
+    
+    <item>
+      <title>Sage: Practical &amp; Scalable ML-Driven Performance Debugging in Microservices</title>
+      <link>https://gy1005.github.io/publication/2021.asplos.sage/</link>
+      <pubDate>Tue, 13 Apr 2021 00:00:00 -0400</pubDate>
+      <guid>https://gy1005.github.io/publication/2021.asplos.sage/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sage: Leveraging ML To Diagnose Unpredictable Performance in Cloud Microservices</title>
+      <link>https://gy1005.github.io/publication/2020.mlsys.sage/</link>
+      <pubDate>Wed, 20 May 2020 00:00:00 -0400</pubDate>
+      <guid>https://gy1005.github.io/publication/2020.mlsys.sage/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unveiling the Hardware and Software Implications of Microservices in Cloud and Edge Systems</title>
+      <link>https://gy1005.github.io/publication/2020.micro.deathstarbench/</link>
+      <pubDate>Wed, 22 Apr 2020 00:00:00 -0400</pubDate>
+      <guid>https://gy1005.github.io/publication/2020.micro.deathstarbench/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Leveraging Deep Learning to Improve Performance Predictability in Cloud Microservices with Seer</title>
       <link>https://gy1005.github.io/publication/2019.sigops.seer/</link>
       <pubDate>Tue, 30 Jul 2019 00:00:00 -0400</pubDate>
-      
       <guid>https://gy1005.github.io/publication/2019.sigops.seer/</guid>
       <description></description>
     </item>
@@ -23,7 +48,6 @@
       <title>An Open-Source Benchmark Suite for Microservices and Their Hardware-Software Implications for Cloud and Edge Systems</title>
       <link>https://gy1005.github.io/publication/2019.asplos.deathstarbench/</link>
       <pubDate>Mon, 15 Apr 2019 00:00:00 -0400</pubDate>
-      
       <guid>https://gy1005.github.io/publication/2019.asplos.deathstarbench/</guid>
       <description></description>
     </item>
@@ -32,7 +56,6 @@
       <title>Seer: Leveraging Big Data to Navigate the Complexity of Performance Debugging in Cloud Microservices</title>
       <link>https://gy1005.github.io/publication/2019.asplos.seer/</link>
       <pubDate>Mon, 15 Apr 2019 00:00:00 -0400</pubDate>
-      
       <guid>https://gy1005.github.io/publication/2019.asplos.seer/</guid>
       <description></description>
     </item>
@@ -41,7 +64,6 @@
       <title>μqSim: Enabling Accurate and Scalable Simulation for Interactive Microservices</title>
       <link>https://gy1005.github.io/publication/2019.ispass.uqsim/</link>
       <pubDate>Mon, 25 Mar 2019 00:00:00 -0400</pubDate>
-      
       <guid>https://gy1005.github.io/publication/2019.ispass.uqsim/</guid>
       <description></description>
     </item>
@@ -50,7 +72,6 @@
       <title>Seer: Leveraging Big Data to Navigate the Increasing Complexity of Cloud Debugging</title>
       <link>https://gy1005.github.io/publication/2018.hotcloud.seer/</link>
       <pubDate>Sun, 01 Jul 2018 00:00:00 -0400</pubDate>
-      
       <guid>https://gy1005.github.io/publication/2018.hotcloud.seer/</guid>
       <description></description>
     </item>
@@ -59,7 +80,6 @@
       <title>The Architectural Implications of Cloud Microservices</title>
       <link>https://gy1005.github.io/publication/2018.cal.deathstarbench/</link>
       <pubDate>Sun, 01 Jul 2018 00:00:00 -0400</pubDate>
-      
       <guid>https://gy1005.github.io/publication/2018.cal.deathstarbench/</guid>
       <description></description>
     </item>
@@ -68,7 +88,6 @@
       <title>Secure Collaborative Spectrum Sensing: A Peer-Prediction Method</title>
       <link>https://gy1005.github.io/publication/2016.tcomm.peer-predition/</link>
       <pubDate>Tue, 16 Aug 2016 00:00:00 -0400</pubDate>
-      
       <guid>https://gy1005.github.io/publication/2016.tcomm.peer-predition/</guid>
       <description></description>
     </item>
@@ -77,7 +96,6 @@
       <title>Incentive Attack Prevention for Collaborative Spectrum Sensing: A Peer-Prediction Method</title>
       <link>https://gy1005.github.io/publication/2015.globecom.peer-predition/</link>
       <pubDate>Tue, 15 Dec 2015 00:00:00 -0500</pubDate>
-      
       <guid>https://gy1005.github.io/publication/2015.globecom.peer-predition/</guid>
       <description></description>
     </item>

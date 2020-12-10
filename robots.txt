@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://gy1005.github.io/sitemap.xml

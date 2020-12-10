@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Siyuan Wang | Yu Gan at Cornell ECE</title>
+    <link>https://gy1005.github.io/author/siyuan-wang/</link>
+      <atom:link href="https://gy1005.github.io/author/siyuan-wang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Siyuan Wang</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Copyright © 2020 Yu Gan</copyright><lastBuildDate>Wed, 22 Apr 2020 00:00:00 -0400</lastBuildDate>
+    <image>
+      <url>https://gy1005.github.io/images/icon_hu2f77bbcd774e8649ce5bde95b181095f_33673_512x512_fill_lanczos_center_2.png</url>
+      <title>Siyuan Wang</title>
+      <link>https://gy1005.github.io/author/siyuan-wang/</link>
+    </image>
+    
+    <item>
+      <title>Unveiling the Hardware and Software Implications of Microservices in Cloud and Edge Systems</title>
+      <link>https://gy1005.github.io/publication/2020.micro.deathstarbench/</link>
+      <pubDate>Wed, 22 Apr 2020 00:00:00 -0400</pubDate>
+      <guid>https://gy1005.github.io/publication/2020.micro.deathstarbench/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Open-Source Benchmark Suite for Microservices and Their Hardware-Software Implications for Cloud and Edge Systems</title>
+      <link>https://gy1005.github.io/publication/2019.asplos.deathstarbench/</link>
+      <pubDate>Mon, 15 Apr 2019 00:00:00 -0400</pubDate>
+      <guid>https://gy1005.github.io/publication/2019.asplos.deathstarbench/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

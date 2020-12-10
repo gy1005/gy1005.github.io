@@ -1,43 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publication_types on Yu Gan at Cornell ECE</title>
+    <title>Publication_types | Yu Gan at Cornell ECE</title>
     <link>https://gy1005.github.io/publication_types/</link>
-    <description>Recent content in Publication_types on Yu Gan at Cornell ECE</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>Copyright &amp;copy; 2019 Yu Gan</copyright>
-    <lastBuildDate>Sun, 01 Jul 2018 00:00:00 -0400</lastBuildDate>
-    
-	<atom:link href="https://gy1005.github.io/publication_types/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>0</title>
-      <link>https://gy1005.github.io/publication_types/0/</link>
-      <pubDate>Sun, 01 Jul 2018 00:00:00 -0400</pubDate>
-      
-      <guid>https://gy1005.github.io/publication_types/0/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>1</title>
-      <link>https://gy1005.github.io/publication_types/1/</link>
-      <pubDate>Tue, 30 Jul 2019 00:00:00 -0400</pubDate>
-      
-      <guid>https://gy1005.github.io/publication_types/1/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>2</title>
-      <link>https://gy1005.github.io/publication_types/2/</link>
-      <pubDate>Tue, 16 Aug 2016 00:00:00 -0400</pubDate>
-      
-      <guid>https://gy1005.github.io/publication_types/2/</guid>
-      <description></description>
-    </item>
+      <atom:link href="https://gy1005.github.io/publication_types/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publication_types</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Copyright © 2020 Yu Gan</copyright><lastBuildDate>Tue, 13 Apr 2021 00:00:00 -0400</lastBuildDate>
+    <image>
+      <url>https://gy1005.github.io/images/icon_hu2f77bbcd774e8649ce5bde95b181095f_33673_512x512_fill_lanczos_center_2.png</url>
+      <title>Publication_types</title>
+      <link>https://gy1005.github.io/publication_types/</link>
+    </image>
     
   </channel>
 </rss>

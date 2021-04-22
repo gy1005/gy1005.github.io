@@ -34,7 +34,8 @@
   
     
   
-  <meta name="description" content="">
+  <meta name="description" content="Cloud applications are increasingly shifting from large monolithic services to complex graphs of loosely-coupled microservices. Despite the advantages of modularity and elasticity microservices offer, they also complicate cluster management and performance debugging, as dependencies between tiers introduce backpressure and cascading QoS violations. Prior work on performance debugging for cloud services either relies on empirical techniques, or uses supervised learning to diagnose the root causes of performance issues, which requires significant application instrumentation, and is difficult to deploy in practice. 
+We present Sage, a machine learning-driven root cause analysis system for interactive cloud microservices that focuses on practicality and scalability. Sage leverages unsupervised ML models to circumvent the overhead of trace labeling, captures the impact of dependencies between microservices to determine the root cause of unpredictable performance online, and applies corrective actions to recover a cloud service’s QoS. In experiments on both dedicated local clusters and large clusters on Google Compute Engine we show that Sage consistently achieves over 93% accuracy in correctly identifying the root cause of QoS violations, and improves performance predictability.">
 
   
   <link rel="alternate" hreflang="en-us" href="https://gy1005.github.io/publication/2021.asplos.sage/">
@@ -277,7 +278,8 @@
   <meta property="og:site_name" content="Yu Gan at Cornell ECE">
   <meta property="og:url" content="https://gy1005.github.io/publication/2021.asplos.sage/">
   <meta property="og:title" content="Sage: Practical &amp; Scalable ML-Driven Performance Debugging in Microservices | Yu Gan at Cornell ECE">
-  <meta property="og:description" content=""><meta property="og:image" content="https://gy1005.github.io/images/icon_hu2f77bbcd774e8649ce5bde95b181095f_33673_512x512_fill_lanczos_center_2.png">
+  <meta property="og:description" content="Cloud applications are increasingly shifting from large monolithic services to complex graphs of loosely-coupled microservices. Despite the advantages of modularity and elasticity microservices offer, they also complicate cluster management and performance debugging, as dependencies between tiers introduce backpressure and cascading QoS violations. Prior work on performance debugging for cloud services either relies on empirical techniques, or uses supervised learning to diagnose the root causes of performance issues, which requires significant application instrumentation, and is difficult to deploy in practice. 
+We present Sage, a machine learning-driven root cause analysis system for interactive cloud microservices that focuses on practicality and scalability. Sage leverages unsupervised ML models to circumvent the overhead of trace labeling, captures the impact of dependencies between microservices to determine the root cause of unpredictable performance online, and applies corrective actions to recover a cloud service’s QoS. In experiments on both dedicated local clusters and large clusters on Google Compute Engine we show that Sage consistently achieves over 93% accuracy in correctly identifying the root cause of QoS violations, and improves performance predictability."><meta property="og:image" content="https://gy1005.github.io/images/icon_hu2f77bbcd774e8649ce5bde95b181095f_33673_512x512_fill_lanczos_center_2.png">
   <meta property="twitter:image" content="https://gy1005.github.io/images/icon_hu2f77bbcd774e8649ce5bde95b181095f_33673_512x512_fill_lanczos_center_2.png"><meta property="og:locale" content="en-us">
   
     
@@ -325,7 +327,7 @@
       "url": "https://gy1005.github.io/images/icon_hu2f77bbcd774e8649ce5bde95b181095f_33673_192x192_fill_lanczos_center_2.png"
     }
   },
-  "description": ""
+  "description": "Cloud applications are increasingly shifting from large monolithic services to complex graphs of loosely-coupled microservices. Despite the advantages of modularity and elasticity microservices offer, they also complicate cluster management and performance debugging, as dependencies between tiers introduce backpressure and cascading QoS violations. Prior work on performance debugging for cloud services either relies on empirical techniques, or uses supervised learning to diagnose the root causes of performance issues, which requires significant application instrumentation, and is difficult to deploy in practice. \nWe present Sage, a machine learning-driven root cause analysis system for interactive cloud microservices that focuses on practicality and scalability. Sage leverages unsupervised ML models to circumvent the overhead of trace labeling, captures the impact of dependencies between microservices to determine the root cause of unpredictable performance online, and applies corrective actions to recover a cloud service’s QoS. In experiments on both dedicated local clusters and large clusters on Google Compute Engine we show that Sage consistently achieves over 93% accuracy in correctly identifying the root cause of QoS violations, and improves performance predictability."
 }
 </script>
 
@@ -750,10 +752,76 @@
 
 
 
+  
 
 
 
 
+  
+
+
+
+<div class="btn-links mb-3">
+  
+  
+
+
+
+
+
+
+
+
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1" href="/publication/2021.asplos.sage/2021.asplos.sage.pdf" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 js-cite-modal"
+        data-filename="/publication/2021.asplos.sage/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary my-1 mr-1" href="/publication/2021.asplos.sage/2021.asplos.sage.slides.pdf" target="_blank" rel="noopener">
+  Slides
+</a>
+
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary my-1 mr-1" href="https://youtu.be/5S1j9ZAEDuk" target="_blank" rel="noopener">
+  Video
+</a>
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1" href="https://doi.org/10.1145/3445814.3446700" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+
+</div>
 
 
   
@@ -763,6 +831,10 @@
 
   <div class="article-container">
 
+    
+    <h3>Abstract</h3>
+    <p class="pub-abstract">Cloud applications are increasingly shifting from large monolithic services to complex graphs of loosely-coupled microservices. Despite the advantages of modularity and elasticity microservices offer, they also complicate cluster management and performance debugging, as dependencies between tiers introduce backpressure and cascading QoS violations. Prior work on performance debugging for cloud services either relies on empirical techniques, or uses supervised learning to diagnose the root causes of performance issues, which requires significant application instrumentation, and is difficult to deploy in practice.
+We present Sage, a machine learning-driven root cause analysis system for interactive cloud microservices that focuses on practicality and scalability. Sage leverages unsupervised ML models to circumvent the overhead of trace labeling, captures the impact of dependencies between microservices to determine the root cause of unpredictable performance online, and applies corrective actions to recover a cloud service’s QoS. In experiments on both dedicated local clusters and large clusters on Google Compute Engine we show that Sage consistently achieves over 93% accuracy in correctly identifying the root cause of QoS violations, and improves performance predictability.</p>
     
 
     
